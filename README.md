@@ -13,6 +13,7 @@ A curated directory of the best **free construction calculators** available onli
 | Calculator | Description | Link |
 |---|---|---|
 | Concrete Calculator | Cubic yards for slabs, footings, columns | [BuiltRight](https://builtrighthq.com/tools/concrete-calculator.html) |
+| Concrete Calculator Hub | Free concrete bag coverage, cost, and ready-mix vs bags comparison | [Visit](https://concreteestimatorhub.com/) |
 | Concrete Block Calculator | Blocks, mortar, sand for walls | [BuiltRight](https://builtrighthq.com/tools/concrete-block-calculator.html) |
 | Rebar Calculator | Rebar quantity, spacing, weight | [BuiltRight](https://builtrighthq.com/tools/rebar-calculator.html) |
 | Brick Calculator | Bricks and mortar estimates | [BuiltRight](https://builtrighthq.com/tools/brick-calculator.html) |
