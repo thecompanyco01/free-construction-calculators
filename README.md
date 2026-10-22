@@ -22,6 +22,7 @@ A curated directory of the best **free construction calculators** available onli
 | Calculator | Description | Link |
 |---|---|---|
 | Roof Pitch Calculator | Pitch, angle, rafter length | [BuiltRight](https://builtrighthq.com/tools/roof-pitch-calculator.html) |
+| Roof Replacement Cost Calculator | US cost ranges by size, material, location, and tear-off | [Roof Cost Data](https://roofcostdata.com/roof-replacement-cost-calculator) |
 | Roofing Calculator | Shingles, underlayment, ridge caps | [BuiltRight](https://builtrighthq.com/tools/roofing-calculator.html) |
 | Shingle Calculator | Bundles and squares needed | [BuiltRight](https://builtrighthq.com/tools/shingle-calculator.html) |
 
